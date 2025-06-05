@@ -1,6 +1,7 @@
 ### ¡Hola! 👋
-## ¡Bienvenido a mi perfil de GitHub! 🚀 
-
+## Bienvenido a mi laboratorio digital 🧪, ecosistea de algoritmos 🧮, pantano de scripts ⚡, santuario de commits 📋... 
+En fin, al parque nacional de repos 😄 🗿 🚀 
+💪✨
 
 
 <!--
