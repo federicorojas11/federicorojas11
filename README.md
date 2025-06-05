@@ -1,6 +1,6 @@
 #
 ### ¡Hola!👋 
-#### Bienvenido a mi laboratorio digital🧪, reserva natural de algoritmos🌄, pantano de scripts⚡, santuario de commits📋... 
+#### Bienvenido a mi laboratorio digital🧪, reserva natural de algoritmos🌄, pantano de scripts⚡
 #### A mi parque internacional de repos 🗿 😄 🚀 
 ## 💪✨
 
