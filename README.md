@@ -1,9 +1,10 @@
-### ¡Hola! 👋
-## Bienvenido a mi laboratorio digital 🧪, ecosistea de algoritmos 🧮, pantano de scripts ⚡, santuario de commits 📋... 
-En fin, al parque nacional de repos 😄 🗿 🚀 
-💪✨
+#
+### ¡Hola!👋 
+#### Bienvenido a mi laboratorio digital 🧪, ecosistea de algoritmos 🧮, pantano de scripts ⚡, santuario de commits 📋... 
+#### A mi parque nacional de repos 🗿 😄 🚀 
+## 💪✨
 
-
+###### Sonría, lo estamos filmando 🎥🔴
 <!--
 **federicorojas11/federicorojas11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
