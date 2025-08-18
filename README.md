@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Fede, i’ve 28 years and avocated to cybersecurity and coding stuff.</h1>  
 
-- 🔭 I’m currently working on **CDSA Certification**  
+- 💪 I’m currently working on SOC Path to obtain Hack The Box **CDSA Certification**  
   
 - 🌱 I’m currently learning **Active Directory and SOC**  
   
